@@ -1,0 +1,124 @@
+{
+  "SzymonWojaczek": [
+    {
+      "id": 1,
+      "city": "Kraków",
+      "street": "Kocykowa",
+      "property": "5",
+      "apartment": "11",
+      "price": 19000,
+      "type": 1,
+      "description": "Prosiox Company"
+    },
+    {
+      "city": "Whole Cake Island",
+      "street": "Perospero",
+      "property": "3",
+      "apartment": "2",
+      "price": "3000",
+      "type": "5",
+      "description": "Big Mom",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "city": "Kraków",
+      "street": "Ludwinowska",
+      "property": "7",
+      "apartment": "17",
+      "price": 19000,
+      "type": 1,
+      "description": "Prosiox Company"
+    },
+    {
+      "id": 4,
+      "city": "Wano Kuni",
+      "street": "Jack",
+      "property": "3",
+      "apartment": "5",
+      "price": "6500",
+      "type": "6",
+      "description": "Kaido"
+    },
+    {
+      "id": 5,
+      "city": "Katowice",
+      "street": "Spodkowa",
+      "property": "7",
+      "apartment": "17",
+      "price": 10000,
+      "type": 4,
+      "description": "Panda S.A"
+    },
+    {
+      "id": 6,
+      "city": "Kobiór",
+      "street": "Biedna",
+      "property": "9",
+      "apartment": "6",
+      "price": "400",
+      "type": "2",
+      "description": "Opołx"
+    },
+    {
+      "id": 7,
+      "city": "Gdańsk",
+      "street": "Soplicowa",
+      "property": "5",
+      "apartment": "9",
+      "price": 20000,
+      "type": 4,
+      "description": "Fish Company"
+    },
+    {
+      "id": 8,
+      "city": "Dubaj",
+      "street": "Golden",
+      "property": "10",
+      "apartment": "4",
+      "price": "900000",
+      "type": "2",
+      "description": "Diamond S.A."
+    },
+    {
+      "id": 9,
+      "city": "Bielsko-Biała",
+      "street": "Miła",
+      "property": "5",
+      "apartment": "12",
+      "price": 1000,
+      "type": 3,
+      "description": "Whitebeard Crew"
+    },
+    {
+      "id": 10,
+      "city": "Warszawa",
+      "street": "Mogilna",
+      "property": "2",
+      "apartment": "5",
+      "price": "900",
+      "type": "2",
+      "description": "Buggy Estates"
+    },
+    {
+      "id": 11,
+      "city": "Kuraigana Island",
+      "street": "Shanksa",
+      "property": "7",
+      "apartment": "17",
+      "price": 16000,
+      "type": 4,
+      "description": "Mihawk Shichibukai"
+    },
+    {
+      "id": 12,
+      "city": "Białystok",
+      "street": "Cukierkowa",
+      "property": "2",
+      "apartment": "3",
+      "price": "9700",
+      "type": "2",
+      "description": "Mugiwara"
+    }
+  ]
+}
