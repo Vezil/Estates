@@ -1,29 +1,5 @@
-# estates
+Because project required second server for servicing
+API to run right this aplication I attach the instructions below which should be entered in cmd after entering the catalog :)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. npm install
+2. npm run ci
