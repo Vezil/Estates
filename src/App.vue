@@ -240,8 +240,9 @@
 import axios from 'axios';
 import anime from 'animejs/lib/anime.es.js';
 
-var randomNumber = Math.floor(Math.random()*6+1);
 
+
+var randomNumber = Math.floor(Math.random()*6+1);
 
 
 export default {
@@ -269,7 +270,8 @@ export default {
       getAllAd() {
 
 
-        axios.get('http://localhost:3000/SzymonWojaczek').then((response) => {
+
+         axios.get('http://localhost:3000/SzymonWojaczek').then((response) => {
         if(response.data.error) {
             this.errorMsg = response.data.message;
 
@@ -385,6 +387,7 @@ export default {
   mounted: function() {
     
     this.getAllAd(); 
+    
     
   },
 
